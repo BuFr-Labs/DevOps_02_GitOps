@@ -34,4 +34,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      - name: Nahraj balicek do repozitare
+        uses: actions/upload-artifact@v4
+        with:
+          name: muj-vysledny-balicek
+          path: README.md
   # 
