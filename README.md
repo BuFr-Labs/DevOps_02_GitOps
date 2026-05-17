@@ -3,7 +3,7 @@ Repozitoř k 2. lekci
 
 # DevOps Úkol 02: GitHub Actions & Git Flow
 
-Tento repozitář obsahuje řešení domácího úkolu zaměřeného na GitOps, správu verzí pomocí Git Flow a automatizaci pomocí GitHub Actions v prostředí RHEL 10 (spravovaném přes MobaXTerm).
+Tento repozitář obsahuje řešení domácího úkolu zaměřeného na GitOps, správu verzí pomocí Git Flow a automatizaci pomocí GitHub Actions v prostředí RHEL 10 (spravovaném přes MobaXTerm nebo VS Code po SSH).
 
 ## 🎯 Cíle projektu
 
